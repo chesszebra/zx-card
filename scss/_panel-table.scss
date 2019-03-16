@@ -1,0 +1,13 @@
+.zx-card > .zx-table {
+  margin-bottom: 0;
+}
+
+.zx-card > .zx-table tr th:first-child,
+.zx-card > .zx-table tr td:first-child {
+  padding-left: 20px;
+}
+
+.zx-card > .zx-table tr th:last-child,
+.zx-card > .zx-table tr td:last-child {
+  padding-right: 20px;
+}

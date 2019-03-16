@@ -1,0 +1,9 @@
+.zx-card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
+.zx-card-body > *:last-child {
+  margin-bottom: 0;
+}
